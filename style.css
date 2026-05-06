@@ -24,7 +24,7 @@ header {
   background-color: var(--main-color);
 }
 .subtitle {
- color-scheme: dark;
+ /* background-color: (var(--main-color)); */
 }
 
 h1 {
